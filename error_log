@@ -1,0 +1,193 @@
+[16-Jun-2015 11:12:05 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sivans/public_html/navil.in/windmill/application/views/editProjects.php on line 121
+[16-Jun-2015 12:14:09 UTC] PHP Parse error:  syntax error, unexpected 'projId' (T_STRING), expecting ',' or ';' in /home/sivans/public_html/navil.in/windmill/application/views/viewLocations.php on line 69
+[16-Jun-2015 12:14:48 UTC] PHP Parse error:  syntax error, unexpected 'projId' (T_STRING), expecting ',' or ';' in /home/sivans/public_html/navil.in/windmill/application/views/viewLocations.php on line 69
+[17-Jun-2015 11:51:55 UTC] PHP Parse error:  syntax error, unexpected 'set_select' (T_STRING), expecting ',' or ';' in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 84
+[17-Jun-2015 11:55:22 UTC] PHP Parse error:  syntax error, unexpected 'set_select' (T_STRING), expecting ',' or ';' in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 84
+[17-Jun-2015 11:57:44 UTC] PHP Parse error:  syntax error, unexpected ''set_select('' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 84
+[17-Jun-2015 12:12:22 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 84
+[17-Jun-2015 12:15:18 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 84
+[17-Jun-2015 12:35:50 UTC] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 80
+[17-Jun-2015 12:45:55 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 82
+[17-Jun-2015 13:02:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 82
+[17-Jun-2015 13:04:28 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sivans/public_html/navil.in/windmill/application/views/createLocations.php on line 82
+[19-Jun-2015 06:25:49 UTC] PHP Parse error:  syntax error, unexpected '$projStartDate' (T_VARIABLE) in /home/sivans/public_html/navil.in/windmill/application/controllers/workitem.php on line 591
+[19-Jun-2015 06:28:16 UTC] PHP Parse error:  syntax error, unexpected '$projEndDate' (T_VARIABLE) in /home/sivans/public_html/navil.in/windmill/application/controllers/workitem.php on line 607
+[19-Jun-2015 06:28:27 UTC] PHP Parse error:  syntax error, unexpected '$projEndDate' (T_VARIABLE) in /home/sivans/public_html/navil.in/windmill/application/controllers/workitem.php on line 607
+[19-Jun-2015 13:53:13 UTC] PHP Fatal error:  Call to undefined method workitem_model::fetchSubworkitemPlanCountByProject() in /home/sivans/public_html/navil.in/windmill/application/controllers/projects.php on line 342
+[23-Jun-2015 04:31:28 UTC] PHP Fatal error:  Class 'Nation_model' not found in /home/sivans/public_html/tobaccomonitor/system/core/Loader.php on line 303
+[23-Jun-2015 04:37:28 UTC] PHP Fatal error:  Class 'Nation_model' not found in /home/sivans/public_html/tobaccomonitor/system/core/Loader.php on line 303
+[23-Jun-2015 04:37:45 UTC] PHP Fatal error:  Class 'Nation_model' not found in /home/sivans/public_html/tobaccomonitor/system/core/Loader.php on line 303
+[23-Jun-2015 05:57:05 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 30
+[23-Jun-2015 05:57:16 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 30
+[23-Jun-2015 05:59:10 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 30
+[23-Jun-2015 05:59:17 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 30
+[23-Jun-2015 13:36:40 UTC] PHP Parse error:  syntax error, unexpected ''Officer1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/sivans/public_html/tobaccomonitor/application/views/createNationContact.php on line 84
+[24-Jun-2015 05:09:21 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:11:34 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:11:58 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:14:30 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:15:25 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:15:37 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 72
+[24-Jun-2015 05:15:41 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 72
+[24-Jun-2015 05:15:41 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 72
+[24-Jun-2015 05:15:44 UTC] PHP Fatal error:  Call to undefined method Home::dashboard() in /home/sivans/public_html/tobaccomonitor/application/controllers/home.php on line 72
+[24-Jun-2015 05:15:51 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:27:39 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:27:43 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:27:50 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:27:58 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:28:07 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:30:15 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:30:21 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:38:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:38:32 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:38:41 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:38:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:45:29 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:45:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:51:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 124
+[24-Jun-2015 05:52:37 UTC] PHP Fatal error:  Call to undefined function match() in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 05:58:54 UTC] PHP Parse error:  syntax error, unexpected 'var' (T_VAR) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 06:00:08 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 06:06:02 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 06:06:07 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 06:32:00 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 122
+[24-Jun-2015 06:33:40 UTC] PHP Fatal error:  Call to undefined function match() in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 123
+[24-Jun-2015 06:44:10 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 125
+[24-Jun-2015 06:45:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 124
+[24-Jun-2015 06:45:42 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 124
+[24-Jun-2015 07:02:27 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 134
+[24-Jun-2015 07:03:22 UTC] PHP Parse error:  syntax error, unexpected '$regex' (T_VARIABLE) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 136
+[24-Jun-2015 07:06:14 UTC] PHP Parse error:  syntax error, unexpected '$regex' (T_VARIABLE) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 136
+[24-Jun-2015 07:07:44 UTC] PHP Parse error:  syntax error, unexpected '$reg' (T_VARIABLE) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 136
+[24-Jun-2015 07:07:47 UTC] PHP Parse error:  syntax error, unexpected '$reg' (T_VARIABLE) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 136
+[24-Jun-2015 07:14:41 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 137
+[24-Jun-2015 08:31:58 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 214
+[24-Jun-2015 08:33:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 229
+[24-Jun-2015 08:35:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 229
+[24-Jun-2015 08:40:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 229
+[24-Jun-2015 08:41:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 229
+[24-Jun-2015 08:41:51 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 229
+[24-Jun-2015 10:25:38 UTC] PHP Fatal error:  Call to undefined function reg_match() in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 150
+[24-Jun-2015 10:26:17 UTC] PHP Fatal error:  Call to undefined function reg_match() in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 150
+[24-Jun-2015 10:26:46 UTC] PHP Fatal error:  Call to undefined function reg_match() in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 150
+[24-Jun-2015 10:34:00 UTC] PHP Fatal error:  Call to undefined function reg_match() in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 150
+[24-Jun-2015 11:10:04 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 238
+[24-Jun-2015 12:48:02 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/sivans/public_html/tobaccomonitor/application/models/nation_model.php on line 55
+[24-Jun-2015 13:47:26 UTC] PHP Parse error:  syntax error, unexpected '" class="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/sivans/public_html/tobaccomonitor/application/views/viewNationContacts.php on line 90
+[25-Jun-2015 06:37:26 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 314
+[25-Jun-2015 06:40:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 341
+[25-Jun-2015 06:40:32 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 341
+[25-Jun-2015 07:30:19 UTC] PHP Fatal error:  Call to a member function fetchNationContacts() on a non-object in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 301
+[25-Jun-2015 13:17:42 UTC] PHP Parse error:  syntax error, unexpected 'empty' (T_EMPTY), expecting '(' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 81
+[25-Jun-2015 13:20:03 UTC] PHP Fatal error:  Non-abstract method nation_model::createDefaultContact() must contain body in /home/sivans/public_html/tobaccomonitor/application/models/nation_model.php on line 58
+[25-Jun-2015 14:21:17 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:24:50 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:24:52 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:24:53 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:25:09 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:25:23 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:26:54 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:28:02 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:28:06 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 325
+[25-Jun-2015 14:35:36 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/sivans/public_html/tobaccomonitor/application/controllers/nation.php on line 326
+[26-Jun-2015 05:35:55 UTC] PHP Fatal error:  Call to a member function fetchStateContacts() on a non-object in /home/sivans/public_html/tobaccomonitor/application/controllers/state.php on line 251
+[26-Jun-2015 06:36:47 UTC] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/sivans/public_html/tobaccomonitor/application/models/state_model.php on line 73
+[26-Jun-2015 11:30:00 UTC] PHP Parse error:  syntax error, unexpected '$q' (T_VARIABLE) in /home/sivans/public_html/tobaccomonitor/application/models/state_model.php on line 32
+[26-Jun-2015 12:34:04 UTC] PHP Fatal error:  Call to undefined method state_model::updateDefaultStateContacts() in /home/sivans/public_html/tobaccomonitor/application/controllers/state.php on line 91
+[27-Jun-2015 07:11:39 UTC] PHP Fatal error:  Call to undefined method state_model::updateDefaultStateContacts() in /home/sivans/public_html/tobaccomonitor/application/controllers/state.php on line 91
+[27-Jun-2015 07:17:41 UTC] PHP Fatal error:  Call to undefined method state_model::updateDefaultStateContacts() in /home/sivans/public_html/tobaccomonitor/application/controllers/state.php on line 91
+[27-Jun-2015 08:56:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/sivans/public_html/tobaccomonitor/application/views/createNationContact.php on line 171
+[31-Jul-2020 13:20:34 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 13
+[24-Aug-2020 10:16:48 UTC] PHP Parse error:  syntax error, unexpected '"message"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 33
+[24-Aug-2020 10:28:54 UTC] PHP Parse error:  syntax error, unexpected '"message"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 33
+[24-Aug-2020 10:31:15 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 27
+[26-Jan-2021 07:24:18 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 07:24:48 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 07:25:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:03:32 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:05:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:08:31 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:09:35 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:11:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:14:17 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:14:50 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:17:19 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:20:12 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[26-Jan-2021 10:20:56 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 90
+[16-Feb-2021 05:32:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/c in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php on line 91
+[16-Feb-2021 05:33:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/c in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php on line 91
+[16-Feb-2021 05:33:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/c in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php on line 91
+[16-Feb-2021 05:33:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/c in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php on line 91
+[16-Feb-2021 05:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_pconnect() in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php:91
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB_driver.php(115): CI_DB_mysql_driver->db_pconnect()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/DB.php(148): CI_DB_driver->initialize()
+#2 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(346): DB(Array, NULL)
+#3 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(1171): CI_Loader->database()
+#4 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Loader.php(152): CI_Loader->_ci_autoloader()
+#5 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/Controller.php(51): CI_Loader->initialize()
+#6 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/c in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/database/drivers/mysql/mysql_driver.php on line 91
+[23-Feb-2021 06:10:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php:73
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/CodeIgniter.php(359): Api->placeorder()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/index.php(202): require_once('/home/ep0fccvbc...')
+#2 {main}
+  thrown in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 73
+[23-Feb-2021 06:11:55 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php:73
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/CodeIgniter.php(359): Api->placeorder()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/index.php(202): require_once('/home/ep0fccvbc...')
+#2 {main}
+  thrown in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 73
+[23-Feb-2021 06:14:32 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php:73
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/CodeIgniter.php(359): Api->placeorder()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/index.php(202): require_once('/home/ep0fccvbc...')
+#2 {main}
+  thrown in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 73
+[23-Feb-2021 06:21:11 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php:76
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/CodeIgniter.php(359): Api->placeorder()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/index.php(202): require_once('/home/ep0fccvbc...')
+#2 {main}
+  thrown in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 76
+[23-Feb-2021 06:21:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php:76
+Stack trace:
+#0 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/system/core/CodeIgniter.php(359): Api->placeorder()
+#1 /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/index.php(202): require_once('/home/ep0fccvbc...')
+#2 {main}
+  thrown in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 76
+[23-Feb-2021 06:24:00 UTC] PHP Parse error:  syntax error, unexpected ''waitername'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/ep0fccvbc33d/public_html/hospital.impelcreations.co.in/hosp/application/controllers/Api.php on line 80
